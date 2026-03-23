@@ -1,0 +1,5 @@
+a=float(input("Enter base:"))
+b=float(input("Enter second side"))
+c=float(input("Enter Third side"))
+print("Area:",0.5*a*b)
+print("Perimeter:",a+b+c)
